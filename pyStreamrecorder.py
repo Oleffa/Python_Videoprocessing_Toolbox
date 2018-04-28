@@ -12,7 +12,7 @@ FILENAME = 'out.avi' # Name of the output file
 OUTPUT_RESOLUTION = (1920,1080) # Resolution of the resulting output video
 LIVE_VIEW_RESOLUTION = (800,600) # Resolution of the live view while recording
 OUTPUT_FPS = 30 # Frames per second of the output file. Set preferably to the same as the input
-VERBOSE = True # Print out message for each processed frame
+VERBOSE = False # Print out message for each processed frame
 #================================
 
 # Open stream source

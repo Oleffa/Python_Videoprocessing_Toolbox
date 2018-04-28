@@ -6,7 +6,7 @@ Are you also sick of non-free, shady ad and malware contaminated programs to do 
 This tool can export every Nth frame from a video stream. It can be used to export single frames (or all frames) from a video as JPG images. The output resolution of the images can be set as well. Uses OpenCV videoCapture.
 
 ## pyStreamrecorder
-This tool can record videos from various sources (streams, webcam and video files) using OpenCV and save to AVI. The output video name, resolution and framerate can be set as well.
+This tool can record videos from various sources (streams, webcam and video files) using OpenCV and save to AVI. The output video name, resolution and framerate can be set as well. During recording the video stream is shown in a window on the screen.
 
 Supported formats:
 - RTMP Streams
